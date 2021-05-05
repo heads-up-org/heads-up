@@ -20,25 +20,25 @@ ___
 ### headsup.local
 How to use the local alerts
 
-```ruby
+```python
 from headsup.local import headsup
 headsup()
 ```
 or
-```ruby
+```python
 from headsup.local import headsup
 headsup(loop=True)
 ```
 ### headsup..remote 
 How to use the remote alerts
 
-```ruby
+```python
 from headsup.remote import watch, notify
 watch_code = watch()
 # ... your code runs here
 notify(watch_code, "Success!!")
 ```
 alternatively, 
-```ruby
+```python
 watch(QR=True, QRInline=True)
 ```
