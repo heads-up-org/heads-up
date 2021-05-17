@@ -15,6 +15,14 @@ headsup.local allows you to play a cool sound file when you call the headsup() m
 
 headsup.remote on the other hand, allows you to communicate the status of your code with the Heads up server, which you can tap into using the browser your laptop or your mobile phone. You will simply be given a heads up when your code reaches a certain stage in execution. 
 
+headsup.remote notification also allows you to receive messages via Telegram app. To enable that, you must send a text message to __headsupbot__ via Telegram. This will introduce you to the bot. After that, you can start watching handles. Give __/help__ command to the bot to learn more about the usage. 
+
+### Installation
+
+```python
+pip install heads-up
+```
+
 Check out the methods below.
 ___
 ### headsup.local
