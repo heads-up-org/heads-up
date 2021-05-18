@@ -1,0 +1,10 @@
+[repo]
+url = https://github.com/heads-up-org/heads-up
+
+[homepage]
+home_url = http://heads-up.org/
+
+[server]
+local = http://localhost:5000/watch
+remote = http://13.93.109.28:8887/watch
+remote_watch = http://13.93.109.28:8887/headsup
