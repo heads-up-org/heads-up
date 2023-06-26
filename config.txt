@@ -2,9 +2,9 @@
 url = https://github.com/heads-up-org/heads-up
 
 [homepage]
-home_url = http://heads-up.org/
+home_url = https://heads-up.org/
 
 [server]
 local = http://localhost:5000/watch
-remote = http://13.93.109.28:8887/watch
-remote_watch = http://13.93.109.28:8887/headsup
+remote = https://heads-up.out5.net/watch
+remote_watch = https://heads-up.out5.net/headsup
